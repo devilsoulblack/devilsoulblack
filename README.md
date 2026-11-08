@@ -7,4 +7,6 @@
 [![GitHub devilsoulblack](https://img.shields.io/github/followers/devilsoulblack?label=follow&style=for-the-badge)](https://github.com/devilsoulblack)
 [![Keybase: PGP](https://img.shields.io/keybase/pgp/devilsoulblack?color=%23030303&label=keybase&logo=keybase&logoColor=%2333A0FF&style=for-the-badge)](https://keybase.io/devilsoulblack) 
 ![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=devilsoulblack.visitor-badge)
-[![Spotify recently played](https://spotify-recently-played.jeffreyca.workers.dev/svg?user=12139911283&theme=spotify&width=500&unique=1&duration=1&album=1&footer=wave)](https://open.spotify.com/user/12139911283)
+---
+<div align="center">[![Spotify recently played](https://spotify-recently-played.jeffreyca.workers.dev/svg?user=12139911283&theme=spotify&width=500&unique=1&duration=1&album=1&footer=wave)](https://open.spotify.com/user/12139911283) </div>
+
